@@ -1,0 +1,76 @@
+/* SIZE OF IMAGES */
+/* img{
+    width: 500px;
+    height: auto;
+} */
+
+/* ALIGNING IMAGES */
+/* img{
+    margin-left: 400px;
+} */
+
+/* CENTRING IMAGES */
+/* img{
+    display: block;
+    margin: auto;
+} */
+
+/* BACKGROUND IMAGES */
+/* body{
+    background-image: url('./images/big\ car.jpg');
+    background-repeat: no-repeat;
+} */
+
+/* BACKGROUND REPEAT */
+/* body{
+    background-image: url('./images/big\ lambo.jpg');
+    background-attachment: fixed;
+} */
+
+/* BACKGROUND POSITION */
+/* body{
+    background-image: url('./images/big\ car.jpg');
+    background-repeat: no-repeat;
+    background-position: right center;
+} */
+
+/* BACKGROUND SHORT HAND */
+
+    /* body { 
+        background: yellow url('./images/big\ car.jpg') 
+          no-repeat top right;} */
+
+/* GRADIENTS  */
+/* linear gradients */
+/* body{
+    background-image: linear-gradient(red,green);
+    background-repeat: no-repeat;
+    height: 500px;
+} */
+/* div{
+   height: 400px;
+   width: 400px;
+    background-image: linear-gradient(to right,  blue,yellow,green,red,purple);
+}
+h2{
+    text-align: center;
+    padding: 40%;
+} */
+
+/* radial gradient */
+/* div{
+    background-image: radial-gradient(red, green, yellow);
+    width: 500px;
+    height: 500px;
+} */
+
+/* conic graient */
+/* div{
+    background-image: conic-gradient(
+        red 45deg, green 70deg,purple 20deg, black 90deg ,  yellow);
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+} */
+
+/* ALL DONE */
